@@ -4,9 +4,8 @@ body {
   line-height: 1.5;
   font-size: 14px;
   line-height: 18px;
-  background: linear-gradient(-50deg, #45336f, #0d4181, #093a03, #2f278d);
+  background: plum;
   background-size: 100%;
-  background-attachment: fixed;
 }
 
 h1,
